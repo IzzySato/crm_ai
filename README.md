@@ -23,7 +23,7 @@ This project is a Python Flask microservice designed to generate descriptive tex
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/ai-image-to-text.git
+git clone https://github.com/IzzySato/crm_ai.git
 cd ai-image-to-text
 ```
 
